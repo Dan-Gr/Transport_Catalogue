@@ -1,0 +1,150 @@
+[
+{
+    "curvature": 1.73906,
+    "request_id": 2053534199,
+    "route_length": 57362331,
+    "stop_count": 81,
+    "unique_stop_count": 53
+},
+{
+    "items": [
+        {
+            "stop_name": "B6Ec8WfmBwDe3",
+            "time": 154,
+            "type": "Wait"
+        },
+        {
+            "bus": "fgbx8",
+            "span_count": 1,
+            "time": 43.9366,
+            "type": "Bus"
+        },
+        {
+            "stop_name": "gYPRz7tOBboXxWccY3pypl 6",
+            "time": 154,
+            "type": "Wait"
+        },
+        {
+            "bus": "5sBUp",
+            "span_count": 2,
+            "time": 58.4963,
+            "type": "Bus"
+        }
+    ],
+    "request_id": 1329506617,
+    "total_time": 410.433
+},
+{
+    "buses": [
+        "AazKufh",
+        "f05dMuGQYTWmhJ7j3pVI",
+        "ujVJvT6rmv90OJyutCkF"
+    ],
+    "request_id": 341100290
+},
+{
+    "curvature": 1.7468,
+    "request_id": 1490041348,
+    "route_length": 50123320,
+    "stop_count": 70,
+    "unique_stop_count": 53
+},
+{
+    "items": [
+        {
+            "stop_name": "gYPRz7tOBboXxWccY3pypl 6",
+            "time": 154,
+            "type": "Wait"
+        },
+        {
+            "bus": "DZ 7nOe5GrbQ8ZLNrmQ94",
+            "span_count": 1,
+            "time": 36.4551,
+            "type": "Bus"
+        }
+    ],
+    "request_id": 1928201523,
+    "total_time": 190.455
+},
+{
+    "buses": [
+        "f05dMuGQYTWmhJ7j3pVI",
+        "mlSt5QpdJRsxu0hSCTE"
+    ],
+    "request_id": 245478950
+},
+{
+    "items": [
+        {
+            "stop_name": "36Ojy PryTb6J1KILAxgrzb",
+            "time": 154,
+            "type": "Wait"
+        },
+        {
+            "bus": "DZ 7nOe5GrbQ8ZLNrmQ94",
+            "span_count": 2,
+            "time": 66.3848,
+            "type": "Bus"
+        },
+        {
+            "stop_name": "FJr",
+            "time": 154,
+            "type": "Wait"
+        },
+        {
+            "bus": "mlSt5QpdJRsxu0hSCTE",
+            "span_count": 3,
+            "time": 126.4,
+            "type": "Bus"
+        }
+    ],
+    "request_id": 648973795,
+    "total_time": 500.785
+},
+{
+    "items": [
+        {
+            "stop_name": "k",
+            "time": 154,
+            "type": "Wait"
+        },
+        {
+            "bus": "f05dMuGQYTWmhJ7j3pVI",
+            "span_count": 1,
+            "time": 23.9514,
+            "type": "Bus"
+        },
+        {
+            "stop_name": "uStAQGY9I",
+            "time": 154,
+            "type": "Wait"
+        },
+        {
+            "bus": "sPJm4XN6CfJfUSMydyi9iH89",
+            "span_count": 1,
+            "time": 47.3202,
+            "type": "Bus"
+        },
+        {
+            "stop_name": "hHIybMWGs",
+            "time": 154,
+            "type": "Wait"
+        },
+        {
+            "bus": "sPJm4XN6CfJfUSMydyi9iH89",
+            "span_count": 1,
+            "time": 18.2394,
+            "type": "Bus"
+        }
+    ],
+    "request_id": 2048519014,
+    "total_time": 551.511
+},
+{
+    "curvature": 1.7468,
+    "request_id": 1490041348,
+    "route_length": 50123320,
+    "stop_count": 70,
+    "unique_stop_count": 53
+}
+]
